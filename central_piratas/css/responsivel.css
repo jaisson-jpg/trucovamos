@@ -1,0 +1,247 @@
+@media screen and (max-width:1005px){
+    .topo{
+        margin: 0px;
+        position: absolute;  
+    }
+    .menu{
+        display: none;
+    }
+
+    .logo{
+        margin: 0px;
+        margin-right: 0px;
+        text-align: center;
+    }
+
+    header{
+        text-align: center;
+        font-size: 14px;
+        margin-top: 5px;   
+    }
+    .headert{
+        color: #180f4a;
+        text-align: center;
+        font-size: 15px;
+        margin-top: 100px;   
+    }
+
+    .topvidio{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-flow: row wrap;
+        height: 700px;
+        padding-top: 100px;
+    }
+    .vidio{
+        font-family: "Lobster", sans-serif;
+        color: #180f4a;
+        flex: 100%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 50%;
+    }
+    .text-vidio{
+        font-family: "Lobster Two", sans-serif;
+        font-size: 22px;
+        font-weight: bold;
+        color: rgb(98, 95, 95);
+    }
+    .img-vidio{
+        margin: 0;
+        height: 100px;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        height: auto;
+        max-width: 100%;
+    }
+    
+    .tamanho-vidio{
+        margin-top: 90px;
+        width: 800px;
+        background: rgb(145, 1, 255);
+    }
+
+   
+    .cabeca-texto1{
+        flex: 100%;
+        margin: 2%;
+        text-align: center;
+        margin-top: 0%; 
+    }
+    .text-bold1{
+        font-size: 13px;
+        font-weight: bold;
+        color: rgb(87, 86, 86);
+    }
+    
+
+    .cabeca-texto{
+        flex: 100%;
+        margin: 2%;
+        margin-top: -20px;
+        text-align: center;   
+        ;
+    }
+
+    .cabeca-texto h2{
+        font-size: 25px;
+        margin-bottom: 5px;
+    }
+    .tamanho-img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 350px;
+        margin: 4%;  
+        
+    }
+
+    
+    .tamanho-img1{
+        margin-bottom: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 350px;
+        margin: 4%;  
+    }
+
+    section h6{
+        width: 100%;
+        font-size: 50px;
+        margin: 0;
+        font-family: "Lobster", sans-serif;
+        font-weight: bold;
+    }
+
+
+    .cabeca-texto p{
+        text-align: center;
+        
+        
+    }
+
+    .img-cabeca-texto{
+        flex: 100%;
+        margin-top: -15px;
+        text-align: center; 
+    }
+    
+    section{
+        margin: 2%;
+        margin-top: 730px;
+        
+        
+    }
+
+    section h2{
+        font-size: 35px;
+        margin-top: 70px;
+    }
+
+    
+    .card{
+        width: 100%;
+        margin: 15px;
+        margin-left: 0px;
+    }
+
+    .logo-rodape{
+        margin-bottom: 50px;
+        
+        
+    }
+
+    .whats{
+        bottom: 5px;
+        right: -5px;
+        position: fixed;
+    }
+    footer{
+        margin-top: 10px;
+        height: 0px;
+        padding: 50px;
+        font-size: 15px;
+    }
+    .agencia{
+        font-size: 30px;
+        text-align: center;
+        height: 0px;
+    }
+    footer p{
+        
+        font-size: 10px;
+        margin-top: 100px;
+        height: 0px;
+        padding: 0px;    
+    }
+
+    h4{
+        font-size: 22px;
+        color: white;
+        margin-top: -13%;
+    }
+    h5{
+        font-size: 15px;
+        color: white;
+        margin-top: -15%;
+        margin-right: 18px; 
+    }
+    .h6n{
+        margin: 20px;
+        font-size: 12px;
+    }
+
+    .cor{
+        color: red;
+        font-size: 15px;
+    }
+    p {
+        font-weight: bold;
+      }
+      .btnb1{
+        margin-right: 0px;
+        margin-top: 20px;
+        display: inline-block;
+        background: #a10606;
+        padding: 8px;
+        color: white;
+        text-transform: uppercase;
+        border-radius: 10px;
+        text-decoration: none;
+    }
+    .btnb2{
+        margin-right: 0px;
+        margin-top: 20px;
+        display: inline-block;
+        background: #a10606;
+        padding: 8px;
+        color: white;
+        text-transform: uppercase;
+        border-radius: 10px;
+        text-decoration: none;
+    }
+    .btnb3{
+        margin-left:  0px;
+        margin-top: 20px;
+        display: inline-block;
+        background: #a10606;
+        padding: 8px;
+        color: white;
+        text-transform: uppercase;
+        border-radius: 10px;
+        text-decoration: none;
+    }
+    
+    .btnb1:hover{
+        background: #180f4a;
+    }
+    .btnb2:hover{
+        background: #180f4a;
+    }
+    .btnb3:hover{
+        background: #180f4a;
+    }
+}
